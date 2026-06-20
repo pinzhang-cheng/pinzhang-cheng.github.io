@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: research/
+          url: Research/
           weight: 1
         #- name: Books
         #  url: books/
