@@ -67,7 +67,7 @@ params:
           imageHeight: 160
           buttons:
             - name: Research
-              url: Research/
+              url: research/
             #- name: Data
             #  url: data/
             #- name: Books
