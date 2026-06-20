@@ -83,7 +83,7 @@ params:
 
     socialIcons:
         - name: resume
-          url: cv.pdf
+          url: pinzhang_cheng_resume.pdf
         - name: Email
           url: mailto:pinzhang.cheng@gmail.com
         - name: GitHub

@@ -16,6 +16,8 @@ editPost:
 ##### Download
 
 + [Thesis (PDF)](DASH_master.pdf)
++ [arXiv](https://arxiv.org/abs/2606.20141)
++ [Accessible explanation (gist.science)](https://gist.science/paper/2606.20141)
 
 ---
 
@@ -36,11 +38,11 @@ Subset selection problems as MIPs (Mixed Integer Programs) are NP-hard. For larg
 
 ##### Citation
 
-Cheng, Pinzhang (Jack). 2026. "DASH: A Dimensionality Reduction Method for Large-Scale Convex MIQP with Applications in Subset Portfolio Selection." Master of Mathematics thesis, University of New South Wales.
+Cheng, Pinzhang. 2026. "DASH: A Dimensionality Reduction Method for Large-Scale Convex MIQP with Applications in Subset Portfolio Selection." Master of Mathematics thesis, University of New South Wales.
 
 ```bibtex
 @mastersthesis{Cheng2026,
-author = {Pinzhang (Jack) Cheng},
+author = {Pinzhang Cheng},
 year = {2026},
 title = {DASH: A Dimensionality Reduction Method for Large-Scale Convex {MIQP} with Applications in Subset Portfolio Selection},
 school = {University of New South Wales},
